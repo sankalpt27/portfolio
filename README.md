@@ -1,4 +1,5 @@
 # Machine Learning Engineer
+![Profile Picture](assets/images/profile.jpg)
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
@@ -28,3 +29,7 @@
 - Developed 14 predictive models for Walmart sales using LSTM and GRU on the M5 dataset, across three different model levels.
 - Built a scalable machine learning pipeline with parallel processing utilizing multiple cores using JOBlib library
 - Deployed the models as a web application using Streamlit, and designed an intuitive front-end interface to visualize model predictions.
+
+
+Feel free to reach out via Linkedin at [LinkedIn](https://www.linkedin.com/in/sankalp-talankar/) 
+<!-- or connect with me on [GitHub](https://github.com/yourusername). -->
