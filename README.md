@@ -8,7 +8,7 @@
 - B.E., Electronics and Telecommunications | The Savitribai Phule Pune University (_May 2020_)
 
 ## Work Experience
-**Software Enginner @ Corteva Agriscience (_May 2024 - Present_)**
+**Software Engineer @ Corteva Agriscience (_May 2024 - Present_)**
 - Developed a Barcode scanning software for Autoplanter clamshell and sample management using Tkinter and Docker.
 - Implemented Object Detection and Tracking of seeds in the AutoPlanter using YOLOv8 and DeepSort, enabling quality assessment of seeds prior to germination tests.
 
